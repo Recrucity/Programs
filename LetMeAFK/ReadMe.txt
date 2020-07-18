@@ -1,4 +1,4 @@
-Thank you for downloadfing AFKv1!
+Thank you for downloading LetMeAFK!
 This program will automatically move a little for you in roblox (probably works in all games) so you don't get AFK Kicked!
 
 This is perfect for games like My Resturant and other games where you have workers working for you.
